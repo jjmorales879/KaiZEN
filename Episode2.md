@@ -1,6 +1,6 @@
 # KaiZEN - 06/05/2023
 
-## Good Change - Episode 3
+## Good Change - Episode 2
 
 ### Newsroom
 
