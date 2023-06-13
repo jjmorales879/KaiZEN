@@ -4,11 +4,11 @@
 
 ### Product Hunt - the latest in new products
 
-# [AIAwesome] (https://www.aiawesome.com/): A resource to keep up with AI news, product, jobs and the latest in technology. 
-# [Runway] (https://runwayml.com/) : Video and image AI company, recently raise 100$ M led by Google series D.
-# [Restogpt](https://restogpt.ai/?ref=producthunt) : Turn menus into AI generated delivery app.
+* [AIAwesome] (https://www.aiawesome.com/): A resource to keep up with AI news, product, jobs and the latest in technology. 
+* [Runway] (https://runwayml.com/) : Video and image AI company, recently raise 100$ M led by Google series D.
+* [Restogpt](https://restogpt.ai/?ref=producthunt) : Turn menus into AI generated delivery app.
 
-# My experience
+* My experience
 * Performance
 * UX
 * Feature & functionality
